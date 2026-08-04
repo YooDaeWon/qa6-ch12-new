@@ -1,1 +1,3 @@
-print("감삽합니다")
+print("감사합니다")
+
+print("Thank you")
