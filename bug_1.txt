@@ -1,0 +1,4 @@
+new_skill_1
+실행 안됨 bug 발생
+new_skill_1_1 으로
+해결 완료
