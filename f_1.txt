@@ -1,0 +1,3 @@
+new_skill_1
+new_skill_2
+new_skill_3
